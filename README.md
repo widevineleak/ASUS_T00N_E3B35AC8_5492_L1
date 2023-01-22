@@ -4,7 +4,7 @@
  Module to use widevine with Python
 ## Contact
 
-*WvCDM* <wvcdm@proton.me> for Updated version
+*Wvleaks* <wvleaks@proton.me> for Updated version
 
 ## Requirements
 
